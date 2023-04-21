@@ -5,4 +5,4 @@ jsonpath==0.82
 protobuf==3.17.3
 pytz==2021.3
 six==1.16.0
-sqlparse==0.4.2
+sqlparse==0.4.4
